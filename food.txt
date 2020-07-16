@@ -1,0 +1,38 @@
+[
+        {
+        "dcode": "1",
+        "day": "MONDAY",
+        "starter": "CHINESE STYLE CHICKEN SERVED WITH MASHED POTATOES",
+        "mcourse": "RED LENTIL SOUP",
+        "dess": "GARDEN SALAD"
+    },
+    {
+        "dcode": "2",
+        "day": "TUESDAY",
+        "starter": "CHICK PEAS WITH MEAT",
+        "mcourse": "RICE WITH VERMICELLI",
+        "dess": "PICKLE SOUR"
+    },
+    {
+        "dcode": "3",
+        "day": "WEDNESDAY",
+        "starter": "VEAL PIECES SAUTEED WITH TOMATOES",
+        "mcourse": "CREAM OF MUSHROOM SOUP",
+        "dess": "SEASON SALAD"
+    },
+    {
+        "dcode": "4",
+        "day": "THRUSDAY",
+        "starter": "MEATBALLS AND POTATOES SAUTEED WITH TOMATO PASTE",
+        "mcourse": "VERMICELLI WITH WALNUTS AND CHEESE",
+        "dess": "CHOCOLATE PUDDING"
+    },
+    {
+        "dcode": "5",
+        "day": "FRIDAY",
+        "starter": "GRILLED CHICKEN SERVED WITH VEGETABLES RICE",
+        "mcourse": "FRIED PASTRY SOAKED IN SYRUP",
+        "dess": "MEDITERRANEAN SALAD"
+    }    
+
+]

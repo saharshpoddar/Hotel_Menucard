@@ -1,0 +1,54 @@
+a#back{
+    color: crimson;
+    align-content: center;
+    align-items: center;
+    align-self: center;
+    
+}
+#heads{
+    border: 2px #333945 solid;
+    padding: 5px;
+    background-color: cyan;
+
+}
+body{
+    background:url(./assets/pic.jpg) repeat 0 0;
+    background-size: cover;
+    text-align: center;
+    padding-top: 100px;
+}
+div.update{
+  background-color: white;  
+  width: 720px;
+  padding: 30px;
+  border: 5px solid gray;
+  margin: 15px;
+  display: inline-block;
+  text-align: left;
+}
+h1{
+    text-align: center;
+    color: #2F363F;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+  }
+input, select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  input[type=submit],select{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: rgb(44, 120, 219);
+    color: whitesmoke;
+  }
